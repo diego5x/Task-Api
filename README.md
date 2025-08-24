@@ -1,4 +1,3 @@
-````markdown
 # Task-API
 
 API simples de tarefas (CRUD) usando **Sinatra**, **Sequel** e **SQLite**.
@@ -12,6 +11,7 @@ API simples de tarefas (CRUD) usando **Sinatra**, **Sequel** e **SQLite**.
 ## Instalação
 
 1. Clone o repositório:
+
 ```bash
 git clone https://github.com/diego5x/Task-Api.git
 cd Task-Api
